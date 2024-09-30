@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Nice to see you.
+  Hey!
 </h1>
 
 <p>
@@ -63,6 +63,5 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigranavanesyan&show_icons=true&locale=en&layout=compact" alt="tigranavanesyan" /></div>
 
-<br/>
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=tigranavanesyan&label=Profile%20views&color=0e75b6&style=flat" alt="tigranavanesyan" /> </div>
