@@ -52,9 +52,8 @@
 </p>
 
 
-- :computer: I'm currently working on <a href="https://upwork.com/freelancers/tigrana2">Upwork</a> and <a href="https://kwork.ru/user/tigran19910315">Kwork</a>
-- :octocat: [My Resume](https://drive.google.com/file/d/1rVPwa1g1kjzY3jHJSn6jbDNEMWpawvmR/view)
--  🌐 Visit my [portfolio website](https://portfolio-tigranavanesyans-projects.vercel.app/)
+- :computer: I'm currently working on <a href="https://lingo-tool.com">LingoTool</a>
+- :octocat: [My Resume](https://drive.google.com/file/d/1xRC5hQIB8oysQ6cPFKiz6092IzmkTrhi/view)
 
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigranavanesyan&" alt="tigranavanesyan" /></div>
